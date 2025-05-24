@@ -14,3 +14,5 @@
 4. Se abrirá una ventana del navegador con Jupyter
 5. Navega hasta la carpeta donde está guardado "Clase_1_Introduccion_Python.ipynb"
 6. Haz clic en "Clase_1_Introduccion_Python.ipynb" para abrir el notebook
+
+
